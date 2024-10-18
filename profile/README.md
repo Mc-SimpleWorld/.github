@@ -9,7 +9,7 @@ SimpleWorld is a social simulation server just founded.
 欢迎加入我们，QQ群组：960431068。
 Welcome to join us,there is QQ group: 960431068.
 
-## 开源 Open source
+## 📂 开源 Open source
 
 SimpleWorld使用的自定义插件皆为开源，接受issues，代码审查。
 SimpleWorld uses custom-develop plugins that are full open source, subject to issues and code review.
