@@ -19,6 +19,9 @@ SimpleWorld uses custom-develop plugins that are full open source, subject to is
 适逢您是Bukkit、Paper的插件开发者，愿意指导我们的插件开发，并且有自己的想法，可以创建合并请求、加入群组或开发团队。<br>
 If you are a Bukkit, Paper plugin developer, have your own ideas to build a plugin while would like to guide our plugin development, you can create a pull-request or join us QQ group and dev team.
 
+## 加入 Join Us
+服务器QQ群：960431068
+
 
 
 
