@@ -11,8 +11,8 @@ Welcome to join us,there is QQ group: 960431068.
 
 ## 📂 开源 Open source
 
-SimpleWorld使用的自定义插件皆为开源，接受issues，代码审查。<br>
-SimpleWorld uses custom-develop plugins that are full open source, subject to issues and code review.
+SimpleWorld使用的非私密性插件皆为开源。<br>
+SimpleWorld uses custom-develop and not-private plugins that are open source, subject to issues and code review.
 
 ## 🎖 贡献 Contribute
 
