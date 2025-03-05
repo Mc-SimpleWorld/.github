@@ -6,8 +6,8 @@ This is SimpleWord minecraft server dev repositories,while use to store custom-d
 SimpleWorld是一个刚起步的社会模拟服务器。<br>
 SimpleWorld is a social simulation server just founded.
 
-欢迎加入我们，QQ群组：960431068。<br>
-Welcome to join us,there is QQ group: 960431068.
+欢迎加入我们。<br>
+Welcome to join us.
 
 ## 📂 开源 Open source
 
@@ -20,7 +20,8 @@ SimpleWorld uses custom-develop and not-private plugins that are open source, su
 If you are a Bukkit, Paper plugin developer, have your own ideas to build a plugin while would like to guide our plugin development, you can create a pull-request or join us QQ group and dev team.
 
 ## 加入 Join Us
-服务器QQ群：960431068
+服务器QQ群：280209656
+KooK频道：https://kook.vip/QzRsc7
 
 
 
